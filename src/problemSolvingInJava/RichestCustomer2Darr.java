@@ -1,4 +1,4 @@
-package leetCodeDSA;
+package problemSolvingInJava;
 
 import java.util.Arrays;
 
